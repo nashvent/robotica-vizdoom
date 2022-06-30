@@ -5,3 +5,4 @@
 *.lmp
 *.wav
 *.png
+venv/
