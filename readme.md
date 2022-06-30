@@ -17,5 +17,7 @@ pip install scikit-image
 ## Ejecución
 Para ejecutar el ejemplo basico
 ```
-python3 basico.py
+python basic.py
+python learning_2d.py
+python learning_3d.py
 ```
