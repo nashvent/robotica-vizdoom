@@ -6,3 +6,4 @@
 *.wav
 *.png
 venv/
+_vizdoom/
